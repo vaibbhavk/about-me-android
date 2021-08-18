@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vaibhav Kesharwani</string>
+    <string name="yellow_star">Yellow star</string>
+
+    <string name="bio">A Lion lay asleep in the forest,
+        \n\n\n\nhis great head resting on his paws. A timid little Mouse came upon him unexpectedly,
+        \nand in her fright and haste to get away, ran across the Lion\'s nose. Roused from his nap,
+        \nthe Lion laid his huge paw angrily on the tiny creature to kill her.
+        \n\n\n\n\n\n"Spare me!" begged the poor Mouse. "Please let me go and some day I will surely repay you."
+        \n\n\n\n\n\nThe Lion was much amused to think that a Mouse could ever help him. But he was generous and finally let the Mouse go.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
